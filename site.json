@@ -1,0 +1,10 @@
+{
+  "short": "NPO 營運健檢框架",
+  "eyebrow": "v0.1 · 十維度 × 成熟度 · 台灣社會團體適用",
+  "description": "三層架構的 NPO 營運健檢框架：階段定位、十維度健檢、年度合規與規劃日曆，含台灣法規底線。",
+  "footer": "v0.1 草稿。作者 d9nielworking，研究與整理由 Claude 協助。法規摘要是閱讀條文的整理，不是法律意見；使用前請對照全國法規資料庫原文。",
+  "related": [
+    { "label": "任務管理健檢框架", "url": "https://leadfortaiwan26.github.io/task-management/" },
+    { "label": "GitHub", "url": "https://github.com/leadfortaiwan26/operational-framework" }
+  ]
+}
