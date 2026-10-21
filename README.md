@@ -15,5 +15,5 @@ npm run build   # src/framework.md → docs/index.html
 ```
 
 - 內容：`src/framework.md`。改完跑 `npm run build`，把 `src/` 與 `docs/` 一起 commit。
-- 頁首文字與連結：`site.json`；樣式：`style.css`（build 時複製到 `docs/assets/`）。
+- 頁首文字與連結：`site.json`（要加頁面時在 `pages` 列出）；樣式：`style.css`（build 時複製到 `docs/assets/`）。
 - 證據標記 `[F]` 事實、`[E]` 專家或機構主張、`[I]` 推論、`[H]` 未查證，build 時會轉成小標籤。
